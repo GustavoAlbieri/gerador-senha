@@ -23,6 +23,7 @@ function gerar() {
 
     containerPassword.classList.remove("hide");
     password.innerHTML = pass;
+    novasenha = pass;
 
 }
 
