@@ -28,7 +28,7 @@ function gerar() {
 }
 
 function copiar() {
-    alert("Senha copiada com sucesso!");
     navigator.clipboard.writeText(novasenha);
+    alert("Senha copiada com sucesso!");
 }
 
